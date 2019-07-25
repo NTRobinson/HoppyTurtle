@@ -7,7 +7,7 @@ import random
 # set up the screen (1000 X 1000 pixels in size)
 main_screen = turtle.Screen()
 main_screen.bgcolor("cyan")
-main_screen.title("BLINDSEY")
+main_screen.title("Hoppy Turtle")
 
 main_screen.bgpic("background.gif")
 
